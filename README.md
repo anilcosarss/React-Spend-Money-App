@@ -1,4 +1,4 @@
-# React WeatherApp
+# React Spend-Money-App
 
  ## [To see live project click here!](https://anilcosarss-spend-money.surge.sh/)
 
